@@ -1,0 +1,47 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - brijeshkrishna</title>
+        <link>http://example.org/tags/</link>
+        <description>Tags - Tag - brijeshkrishna</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-in</language><lastBuildDate>Thu, 19 Jan 2023 23:49:10 &#43;0530</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>css</title>
+    <link>http://example.org/tags/css/</link>
+    <pubDate>Thu, 19 Jan 2023 23:49:10 &#43;0530</pubDate>
+    <author>brijesh</author>
+    <guid>http://example.org/tags/css/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>HTML</title>
+    <link>http://example.org/tags/html/</link>
+    <pubDate>Thu, 19 Jan 2023 23:49:10 &#43;0530</pubDate>
+    <author>brijesh</author>
+    <guid>http://example.org/tags/html/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>emoji</title>
+    <link>http://example.org/tags/emoji/</link>
+    <pubDate>Mon, 21 Nov 2022 00:00:00 &#43;0000</pubDate>
+    <author>brijesh</author>
+    <guid>http://example.org/tags/emoji/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>shortcodes</title>
+    <link>http://example.org/tags/shortcodes/</link>
+    <pubDate>Tue, 03 Mar 2020 12:29:41 &#43;0800</pubDate>
+    <author>brijesh</author>
+    <guid>http://example.org/tags/shortcodes/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Markdown</title>
+    <link>http://example.org/tags/markdown/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>brijesh</author>
+    <guid>http://example.org/tags/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
