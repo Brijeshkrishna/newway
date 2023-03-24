@@ -40,9 +40,9 @@ I have experience with a range of programming languages and tools, including:
 
 In addition to these technical skills, I also possess excellent soft skills, which include:
 
-- Communication 💬
-- Teamwork 🤝
-- Critical thinking 🧠
+- `Communication` 💬
+- `Teamwork` 🤝
+- `Critical thinking` 🧠
 
 
 {{< style "color:#ADD8E6;font-size:20px;padding-top:10px" >}}
@@ -71,3 +71,11 @@ When I'm not studying or working on projects, I enjoy playing video games 🎮, 
 If you'd like to get in touch, you can reach me at {{< link "mailto:brijeshkrishnaga@gmail.com" "brijeshkrishnaga@gmail.com" >}}. 
 
 Thanks for taking the time to learn a bit about me – I'm excited to see what the future holds!
+
+
+
+
+{{< style "text-align:center; strong{color:#00b1ff;};padding-top:7%" >}}
+Powered by **Hugo** | Theme `LoveIt`
+{{< /style >}}
+
