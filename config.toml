@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
 languageCode = "en-in"
 title = "brijeshkrishna"
 theme = "LoveIt"
 enableEmoji = true
+
 
 [params]
   dateFormat = "02-01-2006"
@@ -13,7 +13,6 @@ enableEmoji = true
   logo = "/profile.png"
   pre=" Brijesh"
   name = "Krishna"
-  typeit = true
 
 [params.footer]
   enable = false
@@ -31,6 +30,8 @@ enableEmoji = true
   subtitle = "Welcome to my site"
   typeit = true
   social = true
+  avatarURL = "/profile.png"
+
 
 [params.social]
   GitHub = "brijeshkrishna"
