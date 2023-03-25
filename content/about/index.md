@@ -3,7 +3,7 @@ title: "About Me"
 draft: false
 description: "About Brijesh"
 ---
-<!-- {{< figure src="/photo_2023-03-24_13-20-24.jpg" class=rounded  alt="brijesh" title="it's me" >}} -->
+{{< figure src="/photo_2023-03-24_13-20-24.jpg" class=rounded  alt="brijesh" title="it's me" >}}
 
 
 
