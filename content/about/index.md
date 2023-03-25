@@ -52,7 +52,7 @@ Honestly, I am still a student, so I don't have any work experience yet. However
 
 
 {{< style "color:#ADD8E6;font-size:20px;padding-top:10px" >}}
-### 🏋️ Roles and responsibilities:
+### 🏋️‍♀️ Roles and responsibilities:
 {{< /style >}}
 - **GFG Student Chapter** - As a member of the {{< link "https://gfg-sit-web.web.app/" "Geeks for Geeks Student Chapter SIT"  >}} 
 {{< image src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height=20 width=25 >}}
@@ -62,7 +62,7 @@ Honestly, I am still a student, so I don't have any work experience yet. However
 {{< style "color:#ADD8E6;font-size:20px;padding-top:10px" >}}
 ### 🎮 Hobbies and Interests
 {{< /style >}}
-When I'm not studying or working on projects, I enjoy playing video games 🎮, watching movies 🍿, and reading about the latest technology trends 📖. I find that these activities help me to relax and recharge, so that I can tackle challenges with renewed energy and enthusiasm.
+When I'm not studying or working on projects, I enjoy playing `video games 🎮`, `watching movies` 🍿, and `reading about the latest technology trends` . I find that these activities help me to relax and recharge, so that I can tackle challenges with renewed energy and enthusiasm.
 
 
 {{< style "color:#ADD8E6;font-size:20px;padding-top:10px" >}}
