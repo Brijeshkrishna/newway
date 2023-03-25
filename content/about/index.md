@@ -52,7 +52,7 @@ Honestly, I am still a student, so I don't have any work experience yet. However
 
 
 {{< style "color:#ADD8E6;font-size:20px;padding-top:10px" >}}
-### 🏋️‍♀️ Roles and responsibilities:
+### 🏋️ Roles and responsibilities:
 {{< /style >}}
 - **GFG Student Chapter** - As a member of the {{< link "https://gfg-sit-web.web.app/" "Geeks for Geeks Student Chapter SIT"  >}} 
 {{< image src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height=20 width=25 >}}

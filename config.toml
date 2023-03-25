@@ -3,12 +3,14 @@ languageCode = "en-in"
 title = "brijeshkrishna"
 theme = "LoveIt"
 enableEmoji = true
+enableRobotsTXT = true
 
 
 [params]
   dateFormat = "02-01-2006"
   title = "brijesh krishna"
   description = "This is my cool site"
+  themeVariant = "dark"
 
 [params.header.title]
   logo = "/profile.png"
@@ -20,10 +22,10 @@ enableEmoji = true
   
 [params.page]
   author ="brijesh"
-  twemoji = true
-  lightgallery = true
-  fraction = true
-  fontawesome = true
+  twemoji = false
+  lightgallery = false
+  fraction = false
+  fontawesome = false
 
 [params.home.profile]
   enable = true
@@ -71,3 +73,5 @@ enableEmoji = true
   url = "/about/"
   weight = 3
   title="about me"
+
+
