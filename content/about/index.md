@@ -68,7 +68,7 @@ When I'm not studying or working on projects, I enjoy playing `video games 🎮`
 {{< style "color:#ADD8E6;font-size:20px;padding-top:10px" >}}
 ### 📞 Contact Me
 {{< /style >}}
-If you'd like to get in touch, you can reach me at {{< link "mailto:brijeshkrishnaga@gmail.com" "brijeshkrishnaga@gmail.com" >}}. 
+If you'd like to get in touch, you can reach me at {{< link "mailto:me@brijeshkrishna.ml" "me@brijeshkrishna.ml" >}}. 
 
 Thanks for taking the time to learn a bit about me – I'm excited to see what the future holds!
 
